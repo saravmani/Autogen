@@ -1,0 +1,9 @@
+# Folders ignored
+.env/
+.cache/
+Notebooks/
+Notebook_Play/
+.ipynb_checkpoints/
+
+# Files ignored
+*.env
